@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Whatsaap Chat Opener",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Opens a whatsapp page based on phone number.",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemName": {
+    "message": "Open as WhatsApp web chat.",
+    "description": "Menu title."
+  }
+}
